@@ -1,0 +1,2 @@
+# blog
+Strona do bloga
